@@ -1,0 +1,3 @@
+include ':layoutmanager'
+include ':app'
+rootProject.name = "TinderApp"
